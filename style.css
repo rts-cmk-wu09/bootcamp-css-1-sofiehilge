@@ -39,3 +39,7 @@ margin-left: 150px;
 }
 
 /* Det er en dårlig løsning fordi den er hardcodet med px, og fordi float kun skal bruges til at få tekst til at floate omkring et billede. */
+
+form{
+    color: yellow
+}
