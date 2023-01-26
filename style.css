@@ -15,7 +15,7 @@ h1, h2, h3, h4{
 
 p{
     font-family: 'Ranchers', cursive;
-    
+    margin-bottom: 20px;
 }
 
 img{
@@ -25,6 +25,11 @@ img{
 li:last-child{
     background-color: blueviolet;
 }
+
+li{
+    margin-bottom: 10px;
+}
+
 
 
 .link{
